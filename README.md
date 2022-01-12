@@ -1,1 +1,1 @@
-# react-ist
+Tours project
